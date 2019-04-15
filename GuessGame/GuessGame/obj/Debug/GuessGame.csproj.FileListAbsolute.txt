@@ -1,0 +1,7 @@
+c:\users\maxim\Source\Repos\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+c:\users\maxim\Source\Repos\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+c:\users\maxim\Source\Repos\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+c:\users\maxim\Source\Repos\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+c:\users\maxim\Source\Repos\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+c:\users\maxim\Source\Repos\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
+c:\users\maxim\Source\Repos\GuessGame\GuessGame\obj\Debug\GuessGame.csprojResolveAssemblyReference.cache
